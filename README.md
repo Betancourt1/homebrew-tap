@@ -1,16 +1,26 @@
-# Betancourt1 Tap
+# Homebrew tap for TermDraft
 
-## How do I install these formulae?
+[TermDraft](https://github.com/Betancourt1/TermDraft) is a local-first Markdown editor for the
+terminal.
 
-`brew install betancourt1/tap/<formula>`
+## Install
 
-Or `brew tap betancourt1/tap` and then `brew install <formula>`.
+```bash
+brew install Betancourt1/tap/termdraft
+```
 
-Or, in a `brew bundle` `Brewfile`:
+Upgrade or remove TermDraft with:
+
+```bash
+brew upgrade Betancourt1/tap/termdraft
+brew uninstall termdraft
+```
+
+For a `brew bundle` `Brewfile`:
 
 ```ruby
-tap "betancourt1/tap"
-brew "<formula>"
+tap "Betancourt1/tap"
+brew "termdraft"
 ```
 
 ## Documentation
