@@ -3,8 +3,8 @@ class Termdraft < Formula
 
   desc "Local-first Markdown editor for the terminal"
   homepage "https://github.com/Betancourt1/TermDraft"
-  url "https://github.com/Betancourt1/TermDraft/releases/download/v1.1.1/termdraft-1.1.1.tar.gz"
-  sha256 "820a39453043f299aae8a0a811bd7c7e60db5d81e2fc4fcc9c361e476afa0c6c"
+  url "https://github.com/Betancourt1/TermDraft/releases/download/v1.2.0/termdraft-1.2.0.tar.gz"
+  sha256 "ee013c921d27e3dcb47b840eb463b02404ffa035936a7808fcb62cce76fbbe01"
   license "MIT"
 
   depends_on "python@3.14"
