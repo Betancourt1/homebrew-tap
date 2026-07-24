@@ -1,8 +1,8 @@
 class Termdraft < Formula
   desc "Local-first Markdown editor for the terminal"
   homepage "https://github.com/Betancourt1/TermDraft"
-  url "https://github.com/Betancourt1/TermDraft/archive/refs/tags/v0.5.1.tar.gz"
-  sha256 "302ddc3dae2b51536b22b25e7b9101e9c74c61e68b28f9f3267e6834bd84b011"
+  url "https://github.com/Betancourt1/TermDraft/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "35895dce7b24583d5cc64df36bd37670a38d0825e6ed742286d33c6764b39241"
   license "MIT"
   version_scheme 1
 
